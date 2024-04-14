@@ -1,0 +1,10 @@
+PROGRAMAÇÃO PROCEDURAL:
+
+A programação procedural se trata de um paradigma em que os códigos são geralmente escrito em torno de procedimentos (funções).
+
+Procedimentos são blocos de códigos que executam determinado papel dentro do contexto geral.
+
+A programação procedural segue sempre o fluxo e início, meio e fim, sem atera-lo. Destsa forma, a sequencia de eventos será sempre a mesma ao executar o código.
+
+PROGRAMAÇÃO ORIENTADA A OBJETOS:
+

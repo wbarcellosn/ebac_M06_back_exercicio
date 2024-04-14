@@ -8,3 +8,8 @@ A programação procedural segue sempre o fluxo e início, meio e fim, sem atera
 
 PROGRAMAÇÃO ORIENTADA A OBJETOS:
 
+A Programação Orientada a Objetos (POO) é um paradigma de programação que se baseia no conceito de "objetos". Um objeto pode ser uma representação de algo do mundo real e que possua características (atributos) e ações (chamadas).
+
+Na POO, os objetos são tratados como entidades independentes que interagem entre si. Isso é feito por meio de classes, que são como moldes para criar objetos. Uma classe define quais atributos e métodos um objeto terá.
+
+Utilizar o paradigma da POO ajuda a organizar o código de forma mais intuitiva e facilita o desenvolvimento de sistemas complexos.
